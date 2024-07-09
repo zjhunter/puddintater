@@ -1,0 +1,98 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Christmas List Login</title>
+
+	<style>
+	<font face="verdana, arial, helvetica" color="#000000" size="2">
+	.plain {
+			font-family : verdana, arial, helvetica;
+			font-weight : 500;
+			color : black;
+		}
+	.emph {
+			font-family : verdana, arial, helvetica;
+			font-weight : bold;
+			font-size : large;
+		}
+	.listItem{
+		font-size : x-small;
+		font-family : verdana, arial, helvetica;
+		font-weight : 500;
+		color : black;
+		}
+	</style>
+
+<script language="JavaScript">
+<!-- hide from JavaScript-challenged browsers
+
+rolloverImageArray = new Array()
+
+function newImage(name,imgSrcPath) {
+	rolloverImageArray[name] = new Image
+	rolloverImageArray[name].src = imgSrcPath
+}
+
+function rollover(imgName,imgSrc) {
+	if (document.images) {
+		document.images[imgName].src = rolloverImageArray[imgSrc].src
+	}
+}
+
+function setMsg(msg) {
+	window.status = msg
+	return true
+}
+
+
+newImage('enterhint_off','/images/enterhint_off.gif');
+newImage('enterhint_on','/images/enterhint_on.gif');
+newImage('gethint_off','/images/gethint_off.gif');
+newImage('gethint_on','/images/gethint_on.gif');
+newImage('list_off','/images/list_off.gif');
+newImage('list_on','/images/list_on.gif');
+
+
+//-->
+</script>
+
+</head>
+
+<body bgcolor="#ffffff" leftmargin="0" rightmargin="0" topmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
+
+<table border="0" cellspacing="0" cellpadding="0" align="left">
+	<tr>
+		<td valign="top" align="left">
+		<img src="/images/trees_1.gif" border="0" width="284" height="111"><br />
+		<img src="/images/trees_2.gif" border="0" width="284" height="78"><br />
+		<img src="/images/trees_3.gif" border="0" width="284" height="78"><br />
+		<img src="/images/trees_4.gif" border="0" width="284" height="85"><br />
+		<img src="/images/trees_5.gif" border="0" width="284" height="77">
+		</td>
+
+		<td valign="top" align="center">
+		<img src="/images/mychristmaslist.gif" border="0" width="352" height="46" alt="My Christmas List">
+		<br />
+		<font face="verdana, arial, helvetica" color="#000000" size="2">
+
+		<!-- programming/content goes here -->
+
+		<h3>Login to the Christmas List</h3>
+		<form action="cgi-bin/login.cgi" method="POST">
+			UserName: <input name="userName"><br>
+			<input type="submit" value="login">
+		</form>
+
+		<!-- programming/content ends here -->
+
+		</td>
+
+		<td valign="top" align="left">
+		</td>
+	</tr>
+
+</table>
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0C8C-E7D1
+
+ Directory of C:\Projects\puddintater\html\images\graham
+
+12/19/2004  10:53 PM    <DIR>          .
+12/19/2004  10:53 PM    <DIR>          ..
+12/19/2004  10:53 PM                 0 files.txt
+12/19/2004  10:44 PM            23,431 Graham's Birthday.10.13.04 005 (Custom).jpg
+12/19/2004  10:44 PM            18,793 Graham'sFirstWeek 035 (Custom).jpg
+12/19/2004  10:44 PM            19,514 Graham'sSecondDay 014 (Custom).jpg
+12/19/2004  10:44 PM            13,821 Graham'sSecondDay 037 (Custom).jpg
+12/19/2004  10:44 PM            23,217 GraHAMsLEEPING 001 (Custom).jpg
+12/12/2004  06:50 PM             3,806 graham_icon.jpg
+12/19/2004  10:44 PM            22,404 GrandpaTomVisit 020 (Custom).jpg
+12/12/2004  06:43 PM            23,307 HelloWorld (small).jpg
+12/19/2004  10:44 PM            26,374 MommyAndGraham 002 (Custom).jpg
+12/19/2004  10:44 PM            19,733 PascaleAndMimiMeetGraham 009 (Custom).jpg
+12/19/2004  10:44 PM            20,489 PascaleAndMimiMeetGraham 024 (Custom).jpg
+12/19/2004  10:44 PM            17,793 PreThanksgiving 009 (Custom).jpg
+12/19/2004  10:44 PM            29,816 PreThanksgiving 017 (Custom).jpg
+12/19/2004  10:44 PM            29,529 PreThanksgiving 019 (Custom).jpg
+12/19/2004  10:48 PM    <DIR>          thumbs
+              15 File(s)        292,027 bytes
+               3 Dir(s)  19,009,318,912 bytes free

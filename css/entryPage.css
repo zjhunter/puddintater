@@ -1,0 +1,92 @@
+/* Universal classes */
+.plain {
+		font-family : arial, sans-serif;
+		font-weight : 500;
+		color: snow;
+	}
+.emph {
+		font-weight : bold;
+		font-size : large;
+	}
+.title {
+		text-align : center;
+		font-family : times, serif;
+		font-weight : bold;
+		color : snow;
+		font-size : xx-large;
+	}
+.subtitle {
+		text-align : center;
+		font-family : cursive, serif;
+		font-weight : 700;
+		color : PeachPuff;
+		font-size : large;
+	}
+	
+/* HTML Selectors */
+
+
+P.tagline {
+		font-size : xx-small;
+		font-family : arial, sans-serif;
+		text-align : right;
+	}
+
+
+/* HTML Selectors Subclasses */
+
+
+BODY.EntryPage {
+	color: snow;
+	background-color: navy;
+}
+
+
+A.frame_link {
+	font-weight: bold;
+	text-decoration: underline;
+	color: navy;
+}
+
+
+A.frame_link:Hover  {
+	text-decoration: none;
+	background-color: navy;
+	color: snow;
+}
+
+
+A.body_link {
+	color : PeachPuff;
+	text-decoration: underline;		
+}
+
+
+A.body_link:Hover {
+	text-decoration: none;
+	background-color: PeachPuff;
+	color: navy;
+}
+
+
+IMG.SectionFrame {
+	clear: right;
+	border: 1px solid black;
+	padding: 0;
+	margin-top: 0px;
+	margin-right: 25px;
+	margin-bottom: 0px;
+	margin-left: 25px;
+}
+
+
+TD.SectionFrame {
+	text-align: center;
+	font-family: arial; sans-serif;
+	font-weight: bold;
+	border: groove;
+	background-color: PeachPuff;
+	color: navy;
+	padding: 50 15 20 15;
+	margin: 50 30 50 50;
+}

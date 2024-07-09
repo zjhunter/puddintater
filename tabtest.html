@@ -1,0 +1,27 @@
+<html>
+	<head>
+		<title>Tabbed UI</title>
+		<style>
+			@import "css/tabs.css";
+		</style>
+		<script language="JavaScript" src="js/tabs.js">
+		</script>
+	</head>
+	<body onLoad="showPanel('tab1')" style="margin: 8 0 0 8;">
+		<table cellpadding=0 cellspacing=0><tr valign="top">
+		<td><div id="tab1" class="tab" onClick="showPanel(this.id);" onMouseOver="hover(this);" onMouseOut="setState(this.id)">PuddinTater</div></td>
+		<td><div id="tab2" class="tab" onClick="showPanel(this.id);" onMouseOver="hover(this);" onMouseOut="setState(this.id)">Zuckerniks</div></td>
+		<td><div id="tab3" class="tab" onClick="showPanel(this.id);" onMouseOver="hover(this);" onMouseOut="setState(this.id)">Bastows</div></td>
+		<td><div id="tab4" class="tab" onClick="showPanel(this.id);" onMouseOver="hover(this);" onMouseOut="setState(this.id)">Sarah&nbsp;K.&nbsp;Ahn</div></td>
+		<td><div id="tab5" class="tab" onClick="showPanel(this.id);" onMouseOver="hover(this);" onMouseOut="setState(this.id)">Lovefish</div></td>
+		<td><div id="tab6" class="tab" onClick="showPanel(this.id);" onMouseOver="hover(this);" onMouseOut="setState(this.id)">Text</div></td>
+		</tr></table>
+   		<div id="loading" class="panel" style="visibility: visible; font: 12pt Verdana,sans-serif; color: navy;">Loading...</div>		
+		<iframe id="panel1" class="panel" frameborder=0 src="http://www.puddintater.com"></iframe>
+		<iframe id="panel2" class="panel" frameborder=0 src="http://www.zuckernik.com"></iframe>
+		<iframe id="panel3" class="panel" frameborder=0 src="http://www.thebastows.com"></iframe>
+		<iframe id="panel4" class="panel" frameborder=0 src="http://www.sarahkahn.com"></iframe>
+		<iframe id="panel5" class="panel" frameborder=0 src="http://www.lovefishproductions.com"></iframe>
+		<div id="panel6" class="panel">Here's some normal text.</div>
+	</body>
+</html>

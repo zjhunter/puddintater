@@ -1,0 +1,187 @@
+/*  
+Theme Name: Bling
+Theme URI: http://evvyawards.org/25/
+Description: We got gold diggas.
+Version: 1.0
+Author: Jeremiah, Greg, Llora, Jack, and Allyson too
+Author URI: http://evvyawards.org/
+*/
+
+body {
+	background-image: url("http://evvyawards.org/25/wp-content/themes/bling/bodyBGdark.jpg");
+	background-color: #DDD;
+
+	background-repeat: repeat-x;
+	margin-top: 15px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	background-attachment: fixed;
+	width: 100%;
+	min-width: 857px;
+}
+#wrapper {
+	width: 627px;
+	float: left;
+}
+
+.invisible {
+	display: none;
+}
+.floatLeft {
+	float: left;
+	padding-right: 1em;
+}
+
+#navText {
+	height: 135px;
+	width: 18px;
+	background-image: url("http://evvyawards.org/25/wp-content/themes/bling/headerSide.jpg");
+	float: left;
+	margin-right: 3px;
+}
+#content {
+	margin-left: 21px;
+	clear: both;
+	padding-top: 21px;
+	margin-top: 0px;
+	width: 604px;
+	font-family: Geneva, "Lucida Grande", Helvetica, Arial, sans-serif;
+	font-size: 0.8em;
+	line-height: 1.4em;
+	text-align: justify;
+	z-index: 3;
+}
+#lights {
+	position: fixed;
+	top: 0;
+	right: 0;
+}
+
+#content p {
+	padding-top: 0px;
+	margin-top: 0px;
+}
+#col1 {
+	width: 292px;
+	float: left;
+	margin-right: 20px;
+}
+#col2 {
+	width: 292px;
+	float: left;
+}
+#nav {
+	float: left;
+	height: 135px;
+	width: 180px;
+	margin-right: 3px;
+}
+#headline {
+	background-image: url("http://evvyawards.org/25/wp-content/themes/bling/headerBG.jpg");
+	height: 115px;
+	width: 403px;
+	float: left;
+	background-repeat: no-repeat;
+	clear: right;
+	padding: 10px;
+	color: #531c5a;
+}
+#header {
+	z-index: 7;
+	width: 627px;
+}
+#headline ul {
+	list-style-type: none;
+	margin-left: 0px;
+	margin-top: 0px;
+	padding-top: 0px;
+	padding-left: 0px;
+	font-family: Geneva, "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+#headline ul li {
+	float: left;
+	font-size: .7em;
+}
+#headline ul li:after {
+	content: "\2C \A0";
+}
+#headline ul li.last:after {
+	content: "";
+}
+#headline ul li.cat {
+	font-weight: bold;
+	text-transform: uppercase;
+	float: left;
+	font-size: .7em;
+}
+#headline ul li.cat:after {
+	content: "\A0 \00BB \A0";
+}
+#headline h2 {
+	font-family: Palatino, Garamond, Georgia, Times, "Times New Roman", serif;
+	font-style: italic;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	padding-top: 0px;
+	font-size: 1.5em;
+	line-height: 1.5em;
+}
+
+#footer ul {
+	list-style-type: none;
+	margin-left: 0px;
+	margin-top: 0px;
+	padding-top: 0px;
+	padding-left: 0px;
+	font-family: Geneva, "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+#footer ul li {
+	float: left;
+	font-size: .6em;
+	text-align: center;
+	width: 100px;
+}
+#footer {
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #666;
+	border-bottom-color: #666;
+	clear: both;
+	width: 625px;
+	padding-right: 12px;
+	padding-left: 13px;
+}
+#footer a {
+	text-decoration: none;
+}
+
+a:link, a:active {
+	color: #531c5a;
+}
+a:visited {
+	color: #531c5a;
+}
+
+.alignCenter{
+	text-align: center;
+}
+.copyright {
+	text-align: center;
+	width: 625px;
+	font-family: Geneva, "Lucida Grande", Helvetica, Arial, sans-serif;
+	font-size: 0.6em;
+	color: #666;
+}
+#colNominees strong {
+	font-size: 1.3em;
+}
+#colNominees q {
+	font-size: 1.2em;
+	font-style: italic;
+	font-family: Palatino, Georgia, Garamond, Times, "Times New Roman", serif;
+	font-weight: bold;
+}

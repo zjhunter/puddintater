@@ -1,0 +1,6 @@
+input[autofillsupport="true"] {
+	background-color: #ffffaa;
+}
+select[autofillsupport="true"] {
+	background-color: #ffffaa;
+}

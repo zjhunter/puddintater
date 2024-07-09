@@ -1,0 +1,30 @@
+      .tab{
+         color: navy;
+         background-color: white;
+         border: thin solid navy;
+         /*position: absolute;
+         top: 10;
+         width: 140;*/
+         text-align: center;
+         font: 9pt Verdana,sans-serif;
+         z-index: 2;
+         padding: 3;
+		 margin: -1;
+         cursor: pointer;
+         cursor: hand;
+      }
+      .panel{
+	position: absolute;
+	top: 29;
+	left: 7;
+	width: 95%;
+	z-index: 1;
+	height: 95%;
+	visibility: hidden;
+	font: 12pt Verdana,sans-serif;
+	color: navy;
+	background-color: #ddddff;
+	border: thin solid navy;
+	padding: 10;
+	overflow: visible;
+}

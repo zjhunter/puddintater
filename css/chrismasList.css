@@ -1,0 +1,17 @@
+
+.plain {
+		font-family : verdana, arial, helvetica;
+		font-weight : 500;
+		color : black;
+	}
+.emph {
+		font-family : verdana, arial, helvetica;
+		font-weight : bold;
+		font-size : large;
+	}
+.listItem{
+	font-size : x-small;
+	font-family : verdana, arial, helvetica;
+	font-weight : 500;
+	color : black;
+	}

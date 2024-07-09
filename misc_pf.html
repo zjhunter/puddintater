@@ -1,0 +1,75 @@
+<HTML>
+<HEAD>
+	<style>
+		@import "css/sectionPage.css";
+		@import "css/pictureFrame.css";
+	</style>
+	<script LANGUAGE="JavaScript" src='js/utils.js'></script>
+	<script LANGUAGE="JavaScript" src='js/misc_galleries.js'></script>
+	<script LANGUAGE="JavaScript" src='js/multi_picture_frame.js'></script>
+	<script LANGUAGE="JavaScript">
+		var sSearch = location.search;
+		_imageIndex = parseInt(getURLValue(sSearch, 'current', '0'));
+		_galleryIndex = parseInt(getURLValue(sSearch, 'gallery', '0'));
+		_gallery = _galleries[_galleryIndex];
+		document.write(_gallery.imageTitles[_imageIndex]);
+	</script>
+
+
+</HEAD>
+<body class="SectionPage">
+<table width="100%"><tr><td class="nav_frame">
+<a href="index.html" class="NavItem">Home</a><br>
+<a href="puddin_tater.html" class="NavItem">Us</a><br>
+<a href="pascale.html" class="NavItem">Pascale</a><br>
+<a href="graham.html" class="NavItem">Graham</a><br>
+<a href="thornbush.html" class="NavItem">Thornbush</a><br>
+<a href="friends_family.html" class="NavItem">Family&nbsp;&amp;&nbsp;Friends</a><br>
+<a href="seamaster.html" class="NavItem">SeaMaster</a><br>
+<a href="wedding.html" class="NavItem">Wedding</a><br>
+<a href="france.html" class="NavItem">France 2001</a><br>
+<a href="lockie_art.html" class="NavItem">Lockie's Art</a><br>
+<a href="whats_new.html" class="NavItem">What's New</a>
+</td>
+<td class="content_frame">
+<p class="picture_header">
+	<SCRIPT LANGUAGE="JAVASCRIPT">
+		document.write("<a href='" + _contactSheetFile + "?gallery=" + _gallery.index + "'>Back to " + _gallery.title + "</a>");
+	</SCRIPT>
+</p>
+<p class="picture_nav">
+	<SCRIPT LANGUAGE="JAVASCRIPT">printNav(_gallery);</SCRIPT>
+</p>
+
+
+<p>&nbsp;</p>
+
+
+<p align='center'>
+	<table class="outside_picture_frame">
+	<tr><td class="picture_headder">
+		<div class="caption">
+		<SCRIPT LANGUAGE="JAVASCRIPT">document.write(getImageTitle(_gallery, _imageIndex));</SCRIPT>
+		</div>
+		<table class="middle_picture_frame">
+		<tr><td>
+			<table class="inside_picture_frame">
+			<tr><td>
+			<SCRIPT LANGUAGE="JAVASCRIPT">document.write("<img src='" + _gallery.imageDirectory + "/" + _gallery.imagePrefix + _gallery.imageFiles[_imageIndex] + _gallery.imageSuffix + "'>");</SCRIPT>
+			</td></tr>
+			</table>
+		</td></tr>
+		</table>
+	</td></tr>
+	</table>
+</p>
+
+
+<p class="picture_nav">
+	<SCRIPT LANGUAGE="JAVASCRIPT">printNav(_gallery);</SCRIPT>
+</p>
+</td></tr></table>
+
+
+</BODY>
+</HTML>

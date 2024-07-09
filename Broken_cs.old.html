@@ -1,0 +1,55 @@
+<HTML>
+<HEAD>
+	<script LANGUAGE="JavaScript" src='/js/utils.js'></script>
+	<script LANGUAGE="JavaScript">
+
+		var saImageNames = new Array("TN_DSC00286.JPG","TN_DSC00287.JPG","TN_DSC00297.JPG");
+		var saImageTitles = new Array("Find the Zac and the Lockie in the Art's Reflection","Find the Zac and the Lockie in the Art's Reflection","Art at Beaubourg");
+
+		function printContactSheet()
+		{
+			document.write("<table width='100%' cellpadding='5' border='1'>\n<tr>\n");
+			for(i = 0; i<saImageNames.length; i++)
+			{
+				if(i%4 == 0)
+				{
+					document.write("\n</tr>\n<tr>\n");
+				}
+				document.write("<td align='center'>");
+				printURL(i);
+				printImg(i);
+				document.write("</a><br>");
+				printURL(i);
+				printCaption(i);
+				document.write("</a></td>\n");
+			}
+			document.write("\n</tr>\n</table>\n");
+		}
+
+		function printImg(iIndex)
+		{
+			document.write("<img border='1' src='images/france/" + saImageNames[iIndex] + "'>");
+		}
+
+		function printCaption(iIndex)
+		{
+			document.write(saImageTitles[iIndex]);
+		}
+
+		function printURL(iIndex)
+		{
+			document.write("<a href='Broken_pf.html?current=" + iIndex + "'>");
+		}
+
+	</script>
+	<TITLE>Puddintater.com - All Broken Up</TITLE>
+</HEAD>
+<BODY>
+<h1>All Broken Up</h1>
+<p align='center'>
+	<font size='+2'><b>
+	<SCRIPT LANGUAGE="JAVASCRIPT">printContactSheet();</SCRIPT>
+	</b></font>
+</p>
+</BODY>
+</HTML>

@@ -1,0 +1,29 @@
+
+.title {
+		text-align : center;
+		font-family : times, serif;
+		font-weight : bold;
+		color : navy;
+		font-size : xx-large;
+	}
+.subtitle {
+		text-align : center;
+		font-family : cursive, serif;
+		font-weight : 700;
+		color : #ff9966;
+		font-size : large;
+	}
+.plain {
+		font-family : arial, sans-serif;
+		font-weight : 500;
+		color : black;
+	}
+.emph {
+		font-weight : bold;
+		font-size : large;
+	}
+.tagline {
+		font-size : xx-small;
+		font-family : arial, sans-serif;
+		text-align : right;
+	}

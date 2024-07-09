@@ -1,0 +1,50 @@
+
+.outside_picture_frame {
+	border: groove black;
+	padding: 25px 25px 25px 25px;
+	backgroud-color: LightGoldenrodYellow;
+	text-align: center;
+}
+
+.middle_picture_frame {
+	border: solid black;
+	margin: 25px 25px 25px 25px;
+	background-color: DarkBlue;
+	text-align: center;
+}
+
+.inside_picture_frame {
+	border: solid black;
+	background-color: beige;
+	margin: 25px 25px 25px 25px;
+	text-align: center;
+}
+
+.picture_header {
+	text-align: center;
+	font-family: times, serif;
+	font-weight: 700;
+	font-size: x-large;
+	color: black;
+	text-decoration: none;	
+}
+
+.picture_nav {
+	text-align: center;
+	font-family: times, serif;
+	font-weight: 700;
+	font-size: large;
+	color: black;
+	text-decoration: none;	
+}
+
+.caption {
+	font-family: arial, sans-serif;
+	font-weight: 700;
+	font-size: large;
+	color: black;
+}
+
+IMG {
+	margin: 10px 10px 10px 10px;
+}

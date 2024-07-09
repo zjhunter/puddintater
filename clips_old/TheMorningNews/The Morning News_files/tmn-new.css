@@ -1,0 +1,537 @@
+/**************************************/
+/*  The Common Tags + variable font adjustment */
+body {font-family:Verdana,arial,sans-serif;color:#000000;font-size:10px;line-height:15px;background-color:#ffffff;margin:0px;}
+
+table, tr, td, div, span, li, input, textarea {font-family:Verdana,arial,sans-serif;color:#000000;font-size:10px;line-height:15px;
+}
+
+
+a {line-height:15px;color:#cc3300;text-decoration:none;font-size:inherit;}
+a:hover {text-decoration:underline;}
+a:visited {color:#cc9966;}
+
+blockquote {font-family: Georgia, Times New Roman, Times,serif; color:#000000; font-size:12px; line-height:20px;}
+
+
+
+/*  end common tags */
+/**************************************/
+
+
+/**************************************/
+/* Miscellaneous Sitewide Styles */
+.advertise-with-tmn {display:block;padding-top:5px;padding-bottom:13px;text-align:center;}
+
+.byline {font-family:Verdana, Arial, sans-serif;color:#666666;padding-bottom:5px;}
+
+.text-ad {padding-bottom:5px;}
+
+.google-ads-homepage-right {padding-bottom:24px;}
+
+.google-ads {padding-bottom:10px;}
+
+.google-ads-right-column {width:180px;padding-top:10px;}
+
+.search-date {color:#666666;}
+
+#books-by-tmn-staff {background-color:#e6e0b4;padding-left:13px;padding-bottom:10px;padding-right:20px;color:#000000;font-family:verdana,arial,helvetica,sans-serif;font-size:9px;line-height:11px;}
+/**************************************/
+
+
+
+/**************************************/
+/* google ad styles */
+
+.adsbygoogle {display:block;letter-spacing:1px;font-family:georgia,times,times new roman, serif;font-style:italic;font-size:9px;color:#666666;}
+
+.googlead {padding-top:16px;}
+.googlelink {font-family:verdana,arial,helvetica,sans-serif;font-weight:bold;font-size:10px;color:#cc3300;}
+
+.googleline2 {font-family:verdana,arial,helvetica,sans-serif;font-size:10px;}
+.googleline3 {font-family:verdana,arial,helvetica,sans-serif;font-size:1-px;}
+.googleurl {display:block;font-size:9px;color:#666666;}
+.googleimg {text-align:center;}
+
+
+/* google ads homepage right side */
+.hradsbygoogle {display:block;letter-spacing:1px;font-family:georgia,times,times new roman, serif;font-style:italic;font-size:9px;line-height:9px;color:#666666;}
+
+.hrgooglead {padding-top:11px;}
+.hrgooglelink {font-family:verdana,arial,helvetica,sans-serif;font-weight:bold;font-size:10px;color:#cc3300;}
+
+.hrgoogleline2 {font-family:verdana,arial,helvetica,sans-serif;font-size:10px;}
+.hrgoogleline3 {font-family:verdana,arial,helvetica,sans-serif;font-size:1-px;}
+.hrgoogleurl {display:block;font-size:9px;color:#666666;}
+.hrgoogleimg {text-align:center;}
+
+
+
+
+/**Tower Google ad style***/
+
+
+.toweradsbygoogle {display:block;letter-spacing:1px;font-family:georgia,times,times new roman, serif;font-style:italic;font-size:9px;color:#666666;}
+
+.towergooglead {padding-top:24px;}
+.towergooglelink {font-family:verdana,arial,helvetica,sans-serif;font-weight:bold;font-size:12px;color:#000000;}
+
+.towergoogleline2 {font-family:verdana,arial,helvetica,sans-serif;font-size:12px;}
+.towergoogleline3 {font-family:verdana,arial,helvetica,sans-serif;font-size:1-px;}
+.towergoogleurl {display:block;font-size:9px;color:#666666;}
+.towergoogleimg {text-align:center;}
+
+/**************************************/
+
+
+/**************************************/		
+/* masthead styles */
+
+#published {padding-top:10px;}
+
+#mainLogo {display:block;text-align:center;vertical-align:middle;padding-top:20px;padding-bottom:30px;padding-right:20px;}
+
+
+/* end post-nav, pre-content section */
+/**************************************/	
+
+
+
+
+/**************************************/	
+/* column styles */
+
+.total-width {width:800px;padding-left:5px;padding-right:5px;clear:both;text-align:center;margin-left:auto; margin-right: auto;}
+
+.left {width:184px;text-align:left;float:left;clear:none;margin:0px;}
+
+.center {float:left;width:409px;vertical-align:top;margin-left:auto; margin-right: auto;}
+
+.center2 {width:339px;clear:both;margin-left:auto; margin-right: auto;}
+
+.right {float:right;width:205px;margin:0px;}
+
+.floatclear {clear:none;}
+
+/* end column styles */
+/**************************************/
+
+
+	
+/**************************************/	
+/* common box classes */
+
+.box {border-top:4px solid #000000;padding-bottom:23px;}
+
+.box-title {padding-left:3px;padding-top:5px;padding-bottom:4px;background: url('http://www.themorningnews.org/images/sitewide/css-dotted.gif') repeat-x bottom;text-align:left;}
+
+.box-content {padding-top:16px;}
+
+.box-tan {border-top:4px solid #000000;color:#000000;background-color:#E5E5CD;margin-bottom:15px;padding-bottom:20px;text-align:center;}
+
+.notopborder {border-top:none;}
+
+/* end common homepage classes */
+/**************************************/	
+
+	
+/**************************************/
+/* Homepage Left Side Styles */
+
+
+/* Of Recent Note */
+#of-recent-note {}
+
+#of-recent-note-img {padding-right:10px;padding-bottom:5px;float:left;}
+
+
+
+
+
+/* Archives Search */
+
+#archives {font-family:Verdana,arial,sans-serif;color:#666666;font-size:11px;text-align:left;}
+
+.searchbox-archives-homepage {width:140px;height:14px;font-size:10px;line-height:10px;vertical-align:top;margin:0px;padding:0px;}
+
+.archives-text {padding-top:10px;}
+
+
+/* Magazine */
+#magazine-img {padding-top:10px;background: url('http://www.themorningnews.org/images/sitewide/css-dotted.gif') repeat-x top;margin-top:5px;}
+
+
+
+/* homepage ads */
+#left-ad {text-align:center;}
+
+
+/* From the Attic */
+#from-the-attic {text-align:left;font-size:11px;font-family:Verdana,arial,sans-serif;}
+
+.from-the-attic-img {display:block;padding-bottom:5px;}
+
+.from-the-attic-entry {}
+.from-the-attic-entry a {display:block;}
+
+.attic-title {font-weight:bold;}
+
+
+
+/* End Homepage Left Column Styles */	
+/**************************************/	
+
+
+
+
+/**************************************/
+/*Center Column Styles */
+
+
+/*******************/
+/* Feature Styles */
+#feature {text-align:center;font-size:11px;}
+
+#feature a{color:#000000;}
+#feature a:visited{color:#000000;}
+
+#feature img {padding-bottom:20px;clear:both;}
+
+.feature-subtitle {font-family:georgia,times,times new roman, serif;font-size:14px;color:#666666;}
+
+.feature-title {font-family:georgia,times,times new roman, serif;font-size:28px;line-height:26px;padding-top:4px;}
+
+#feature-author {font-family:Georgia, Times New-Roman, serif;font-size:11px;color:#666666;letter-spacing:2px;line-height:21px;text-transform:uppercase;padding-bottom:4px;}  
+ 
+#feature-date {display:block;line-height:27px;padding-bottom:30px;color:#666666;}
+
+/* end feature styles */
+/*********************/
+
+
+
+		
+/**********************/
+/* subfeature styles */
+
+.first-subfeatures {text-align:left;clear:both;}
+
+.subfeature {vertical-align:top;clear:both;}
+
+.subfeature-image {float:left;width:47px;height:47px;clear:none;margin-right:20px;}
+
+.subfeature-text {float:right;margin:0px;width:272px;clear:none;font-size:11px;line-height:15px;}
+
+.subfeature-title {display:block;font-family:georgia,times,times new roman, serif;font-size:14px;color:#000000;font-weight:bold;}
+.subfeature-title:visited {color:#000000;}
+
+.subfeature-author {font-weight:bold;color:#666666;}
+
+
+/* end subfeature styles */
+/************************/	
+
+
+.center-ad {width:338px;text-align:center;border-top:1px solid #B5B5B5;padding-top:7px;}
+
+
+/* end center column styles */
+/**************************************/
+
+
+/**************************************/
+
+#digest {text-align:left;background-color:#000000;padding-bottom:10px;}
+
+#digestBoxTitle {background:url('/images/digestBlurbBackground.gif') repeat-x;height:17px;padding-left:3px;padding-top:8px;}
+
+.digestDate {display:block;float:left;text-align:center;width:72px;color:#ffffff;font-family:georgia,"times new roman",times,serif;font-weight:bold;font-style:italic;font-size:12px;letter-spacing:1px;text-transform:lowercase;line-height:14px;position:relative;top:-7px;padding:0px;margin:0px;}
+.digestDate:hover {text-decoration:none;}
+
+.digestDate:visited {color:#ffffff;}
+
+#digestFeature {height:72px;padding-top:8px;padding-bottom:0px;margin-bottom:5px;margin-top:0px;}
+
+
+.digestFeatureDescription {display:block;float:right;width:260px;margin-right:5px;margin-top:0px;margin-bottom:0px;padding:0px;}
+.digestFeatureDescription  a {font-family:georgia,"times new roman",times,serif;font-weight:bold;font-size:16px;color:#ffffff;}
+.digestFeatureDescription  a:visited{color:#ffffff;}
+
+
+.digestDateLetter {display:block;font-family:georgia,"times new roman",times,serif;font-weight:bold;font-style:italic;font-size:34px;line-height:34px;margin:0px;vertical-align:top;padding:0px;}
+
+.digestText {font-family:verdana,arial,sans-serif;font-size:10px;color:#ffffff;padding-bottom:10px;}
+
+
+
+.digestByline {font-family:verdana,arial,sans-serif;font-size:9px;color:#ffffff;letter-spacing:1px;margin:0px;}
+
+
+
+.digestEntry {background-color:#000000;padding-top:10px;padding-bottom:6px;}
+
+.digestEntryDescription {display:block;float:right;width:260px;margin-right:5px;margin-top:0px;margin-bottom:0px;padding:0px;}
+
+.digestEntryDescription a {font-family:verdana,arial,sans-serif;font-size:10px;color:#d44c00;font-weight:bold;}
+
+.digestEntryDescription .digestByline {display:inline;}
+
+.digestArticleDescription {color:#999999;margin-left:4px;font-family:georgia,"times new roman",times,serif;font-weight:normal;font-style:italic;font-size:12px;margin-top:9px;margin-bottom:10px;}
+
+.digestArticleTitle {font-family:georgia,"times new roman",times,serif;font-weight:normal;font-size:36px;margin-top:18px;margin-bottom:0px;padding:0px;}
+
+.digestArticleBylineDate {margin-left:3px;letter-spacing:3px;color:#333333;font-family:georgia,"times new roman",times,serif;text-transform:uppercase;font-weight:normal;font-size:11px;margin-top:16px;margin-bottom:55px;padding:0px;}
+
+.digestImage {display:block;text-align:center;margin-top:40px;margin-bottom:40px;border:none;}
+
+.digestRecently {margin-top:80px;}
+
+.digestRecently a {font-weight:bold;}
+
+.digestRecently h2 {margin-top:36px;font-family:georgia,"times new roman",times,serif;font-size:16px;font-weight:bold;}
+
+
+/**************************************/		
+/* right column styles */
+
+/**************************************/
+/* Headlines */
+#headlines {padding-top:15px;text-align:left;}
+
+.headlines-text p{text-align:left;padding-top:3px;padding-bottom:4px;font-size:10px;line-height:15px;margin:0px;}
+
+
+.bullet {vertical-align:bottom;}
+
+
+/** Letters From Editors **/
+#from-editors-title {display:block;padding-top:10px;padding-right:4px;padding-left:4px;text-align:center;font-family:georgia,times,times new roman, serif;font-size:15px;line-height:18px;color:#000000;font-weight:bold;}
+.from-editors-title:visited {color:#000000;}
+
+#from-editors-text {padding-left:15px;padding-right:15px;padding-top:10px;padding-bottom:2px;color:#000000;}
+
+
+/* end right column styles */
+/**************************************/
+
+
+/**************************************/
+/* Begin Article Styles */
+
+
+#main {border-top:4px solid #000000;}
+
+/* Begin article content styles */
+
+.article-content {width:545px;margin-right:35px;float:left;padding-top:18px;text-align:left;font-family:Verdana, Arial, sans-serif;font-size:12px;color:#000000;line-height:19px;}
+
+.article-text {font-family:Verdana, Arial, sans-serif;font-size:12px;color:#000000;line-height:19px;}
+
+
+#article-content-print {width:558px;margin-right:35px;border-top:4px solid #000000;padding-top:18px;text-align:left;font-family:Times New Roman, serif;font-size:12px;color:#000000;line-height:19px;}
+
+
+.article-subtitle {font-family:Georgia, Times New Roman, Times,serif; color:#000000; font-size:16px; text-decoration:none; letter-spacing:.08em; line-height:18px}
+
+
+.article-section {display:block;padding-top:23px;font-family:georgia,times,times new roman, serif;font-size:14px;color:#666666;}
+
+#article-title {font-family:Georgia, Times, Times New Roman, serif;font-size:36px;color:#000000;line-height:37px;padding-left:20px;padding-right:20px;}
+
+#article-author{font-family:Georgia, Times New-Roman, serif;font-size:11px;color:#666666;letter-spacing:4px;text-transform:uppercase;padding-top:9px;}
+
+#article-description {width:369px;font-family:Georgia, Times, Times New Roman, serif;font-size:12px;color:#000000;font-style:italic;line-height:18px;padding-bottom:27px;padding-top:15px;}
+
+.article-date{font-family:Georgia, Times, Times New Roman, serif;color:#333333;font-size:10px;padding-top:20px;}
+
+.author-info{font-size:11px;text-align:center;}
+
+.article-pullquote {width:180px;float:left;font-family:Georgia, Times, Times New Roman, serif;font-size:22px;line-height:30px;color:#000000;padding-right:25px;padding-bottom:25px;}
+
+.article-pullquote-small {width:120px;float:left;font-family:Georgia, Times, Times New Roman, serif;font-size:12px;line-height:16px;color:#000000;padding-top:15px;padding-right:15px;padding-bottom:15px;}
+
+.article-pullquote-small-right {width:120px;float:right;font-family:Georgia, Times, Times New Roman, serif;font-size:12px;line-height:16px;color:#000000;padding-top:15px;padding-left:15px;padding-bottom:15px;}
+
+#gallery-link {text-align:center;padding:50px;text-align:center;font-size:12px;font-weight:bold;}
+
+#author-description {font-family:Verdana,arial,sans-serif;font-size:11px;padding-bottom:27px;padding-top:15px;width:550px;}
+
+.more-links {padding-top:5px;}
+
+.page-links {font-size:14px;}
+
+.article-title-second {font-family:Georgia, Times New Roman, Times,serif; color:#000000; font-size:16px; text-decoration:none; letter-spacing:.08em; line-height:18px}
+
+.article-content h2 {font-family:Georgia, Times New Roman, Times,serif; color:#000000; font-size:16px; text-decoration:none; letter-spacing:.08em; line-height:18px;margin-bottom:15px;margin-top:15px;padding:0px;font-weight:normal;}
+
+.author {color:#666666;font-size:12px;}
+
+/* end main content article styles */
+/**************************************/
+
+
+/**************************************/	
+/* begin right side article styles */
+
+
+#article-right {float:right;width:207px;text-align:left;}
+
+
+/* begin article tools styles */
+
+.article-tools-icon {width:33px;padding-top:3px;padding-bottom:3px;}
+
+.article-tools-text {font-size:10px;}
+
+.article-tools-right {padding-top:4px;padding-right:7px;width:207px;}
+
+#emailform {}
+
+
+/* about the author */
+
+.about-author-text {padding-top:10px;font-family:Verdana, Arial, sans-serif;font-size:11px;}
+
+.about-author-img {padding-right:10px;padding-bottom:8px;float:left;clear:none;}
+
+
+
+/* this week at tmn styles */
+
+.this-week-at-tmn {padding-top:10px;font-size:10px;}
+
+.this-week-at-tmn a {font-family:Verdana, Arial, sans-serif;color:#cc3300;font-weight:bold;}
+
+
+
+/* most emailed articles styles */
+
+.most-emailed-articles {padding-top:10px;font-size:10px;}
+
+.most-emailed-articles a {font-family:Verdana, Arial, sans-serif;color:#cc3300;font-weight:bold;}
+
+
+
+/* end this week at tmn styles */
+/*******************************/
+
+/* end right side article styles */
+
+
+
+
+
+
+
+/**************************************/	
+/* footer classes */
+#footer {
+float:none;
+font-family:Verdana,arial,sans-serif;
+color:#000000;
+font-size:10px;
+background: url('http://www.themorningnews.org/images/sitewide/css-dotted.gif') repeat-x top #fff9f2;
+padding-top:22px;
+padding-bottom:40px;
+text-align:right;
+}
+
+#footerLeft {
+float:left;
+width:480px;
+padding-right:65px;
+text-align:left;
+}
+
+#footerRight {
+float:right;
+width:245px;
+text-align:left;
+}
+
+#footerRight select {
+font-size:9px;
+width:245px;
+}
+
+.spacer {
+height:10px;
+}
+
+/* end footer */
+/**************************************/	
+
+
+/**************************************/
+/* DECK ad styles */
+
+.deckAdContainer {
+margin-top:10px;
+background: url('http://www.themorningnews.org/images/sitewide/css-dotted.gif') repeat-x top;
+padding-top:12px;
+}
+
+.deckAd {
+margin-bottom:20px;
+border:1px solid #999999;
+padding:10px;
+}
+
+.ad {
+display:block;
+}
+
+.ads {
+color:#000000;
+font-family:verdana,arial,helveica,sans-serif;
+font-size:11px;
+}
+
+.deckLink {
+display:block;
+color:#999999;
+text-align:right;
+}
+
+
+/**************************************/
+/* announcements style */
+#announcementTitle {font-family:Georgia, Times, Times New Roman, serif;font-size:36px;color:#000000;line-height:37px;}
+
+/**************************************/
+
+
+/**************************************/
+/*  masthead page styles */
+
+.mastheadEntry {display:block;float:left;width:260px;margin-right:20px;padding:0px;}
+
+.mastheadEntry img {float:left;width:140px;margin-right:10px;padding:0px;}
+
+.mastheadText {font-family:Verdana, Arial, sans-serif;font-size:12px;color:#000000;line-height:19px;margin:0px;padding:0px;}
+
+.mastheadContent {width:570px;margin-right:15px;float:left;padding-top:18px;text-align:left;font-family:Verdana, Arial, sans-serif;font-size:12px;color:#000000;line-height:19px;}
+
+
+/**************************************/	
+/* bottom nav and search styles */
+
+#bottom {background-color:#2E2E2E;height:23px;vertical-align:middle;}
+
+#nav {float:left;width:600px;height:11px;padding-top:6px;vertical-align:top;text-align:left; }
+
+.issue-date {color:#999999;font-size:10px;vertical-align:top;line-height:10px;}
+
+#searchgroup {float:right;width:180px;height:10px;padding-top:3px;text-align:right;}
+
+.searchbox {width:156px;height:14px;font-size:10px;line-height:10px;vertical-align:top;margin:0px;padding:0px;}
+
+* html .searchbox {height:14px;font-size:10px;line-height:10px;}
+
+.go-button {margin-left:6px;border:0px;}
+
+.search-form {display:inline;}
+
+.skiplink {display:none;}
+/* end top nav and search styles */
+/**************************************/
+

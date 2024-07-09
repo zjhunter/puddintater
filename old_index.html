@@ -1,0 +1,399 @@
+<html>
+<head>
+<title>Web Hosting - Frequently Asked Questions</title>
+</head>
+<body bgcolor="ffffff">
+
+<table width=100%>
+<tr>
+<td>
+<h2>Frequently Asked Questions</h2>
+<p>
+<li><a href="#ftp">How do I FTP my files to the server?</a> (all accounts)
+<li><a href="#telnet">How do I use Telnet or Shell Access to work with my files?</a> (all accounts)
+<li><a href="#mail">How do I configure my mail client to access the mail server?</a> (all accounts) 
+<li><a href="#aliases">How do I set up mail aliases and autoresponders?</a> (all accounts)
+<li><a href="#counter">How do I configure my counter CGI script to work?</a> (all accounts)
+<li><a href="#search">How do I configure my Local Search CGI script to work?</a> (all accounts)
+<li><a href="http://web.mit.edu/wwwdev/cgiemail/">How do I use the <tt>cgiemail</tt> script?</a> (all accounts)
+<li><a href="#location">I need to know where certain files are for my cgi scripts. Where could they possibly be?</a> (all accounts)
+<li><a href="#ra">How do I use the Real Audio Server?</a> (available to Ultra, and Ultimate accounts)
+<li><a href="#secure">How do I use the Secure Server?</a> (available to Gold, Ultra, and Ultimate accounts)
+<li><a href="#htaccess">How do I password protect a file or directory?</a> (Silver, Gold, Ultra and Ultimate accounts)
+<li><a href="http://www.Hughes.com.au">How do I use the Mini Sql server v1</a> (Silver, Gold, Ultra and Ultimate accounts)
+<li><a href="http://www.Hughes.com.au">How do I use the Mini Sql server v2</a> (Silver, Gold, Ultra and Ultimate accounts)
+<li><a href="#mk">How do I view the stats for my site?</a> (all accounts)
+<P>
+<P>
+<hr noshade size=1>
+<hr noshade size=1>
+<dl>
+<a name="ftp">
+<dt><b>How do I FTP files to the server?</b>
+<dd>To FTP to the server you will need a FTP program.  There are many available on the web.  Two that are popular are CuteFTP and WS_FTP.  There are three things you must know in configuring your FTP program.  The first thing you need is your host address
+
+
+
+
+. This is your IP number which you have been assigned or your domain name if it is already registered. Next you need your user name or user ID, this is sent to you by the tech department on setting up your account.  It usually starts with either a w or f.
+
+
+
+
+  The last thing you need is your password which you picked upon signing up for services.  Leave the rest of the fields blank or at the default settings.  <p>Once you are logged into the server you will be in your Root directory.  Just name your first pag
+
+
+
+
+e index.html or home.html and you should be able to view your page through a browser.  You can create  your own directory structure from there.<p>
+<a name="telnet">
+<dt>
+<b>How do I use Telnet or Shell Access to work with my files?</b>
+<dd>Telnet gives you a text based interface into the server.  You can use this to move or copy files.  You can write and edit files and programs and perform many other functions.  Your FTP username and password are required to log in.  There are many teln
+
+
+
+
+et clients available on the net.  Windows 95 comes with a telnet program that you can access from the start, run command by typing telnet (your IP number) from the run dialogue box.  When prompted for login, type your username and then password.  Since al
+
+
+
+
+l of our servers run the Solaris OS, most standard Unix commands will work just fine.  Here is a short list of some of the most common:<BR><br> <b>ls</b> <em>List contents of a directory.</em>
+	    <p>For each file that is a directory, ls lists the contents  of
+     	     	the  directory;  for  each file that is an ordinary file, ls
+     	     	repeats its name and any other information requested. The
+    		output  is  sorted alphabetically by default. When no
+		argument is  given,  the current directory is listed. When
+     		several  arguments are given, the arguments are first sorted
+     		appropriately, but file arguments appear before  directories
+     		and their contents.
+	    </p>
+	    <tt>Usage:</tt><br>
+	    <dl compact>
+	    <dt><b>ls -l</b></dt>
+		<dd>-lists files in long format, giving file permissions, 
+		   size, owner, group and other info
+		</dd>
+            <dt><b>ls -a</b></dt> 
+                <dd>-lists hidden files along with other files
+		</dd>
+	    </dl><P><b>cd</b>
+<em>Change working directory.</em>
+            <p>The cd utility will change  the  working  directory
+		of  the current  shell  execution environment.  When
+		invoked with no operands, and the HOME environment
+		variable  is  set  to  a non-empty value, the directory
+		named in the HOME environment variable will become the new
+		working directory.
+            </p>
+            <tt>Usage:</tt><br>
+            <dl compact>
+            <dt><b>cd [dir]</b></dt>
+                <dd>-changes current working directory to dir
+                </dd>
+            <dt><b>cd</b></dt>
+                <dd>-changes current working directory to your home directory
+                </dd>
+
+            </dl>
+			<p><b>pico</b>
+			<p> Pico is a unix text editor that is excellent for making changes to files on line.  It is invoked by typing pico [file name] from the command prompt.  You can write and save your changes right on line without uploading and downloading your files.
+<p> The Unix environment is a rich one to perform many tasks on line.  Our servers are packed with most programs you will need to perform a multitude of tasks.   A short review of Unix commands available at many locations on the net will allow you to harn
+
+
+
+
+ess this power for your site.  Also typing "help" at any command prompt will bring up a help menu.
+<p>
+<a name="mail">
+<dt>
+<b>How do I log on with my mail client into the mail servers?</b>
+<dd>
+To log into our mail servers requires that you configure your mail program for our servers.  With all of the good mail programs available today it is impossible to have exact instructions to each one.  However, in general they all ask for some common info
+
+
+
+
+rmation.  
+<P><b>Pophost or Popserver</b><BR>
+Pophost or popserver refers to the name of the pophost on our network. You are given your pophost information along with your pop account information when you signup. For example "pophost5.tricreations.com".
+<p><b>SMTP server</b>
+<p>SMTP is the outgoing mail server.  For this you should enter the smtp host you were assigned at signup. For example "smtp5.tricreations.com".
+<p><b>Mail box name or user name</b>
+<p> Each mail program seems to call this something else or requires different information.  You should try first using your the first part of your mailbox name.  Meaning before the "@" symbol.  Other programs require your complete mail address and some ot
+
+
+
+
+hers will ask for the username we assigned you with either the rest of your domain name or not.  The only way to find out if you don't know is to try.  If after trying all possibilities you still cannot get it to work <A HREF="mailto:tech@tricreations.com
+
+
+
+
+">contact tech</A> for help.  Be sure to tell them what mail program you are using.
+<p><b>Password</b>
+<p>For this just put in the password you picked when you signed up for service.
+
+<p>
+<a name="aliases">
+<dt><b>How do I set up aliases and autoresponders?</b>
+<dd>
+To set up new email aliases and autoresponders, go to http://yourdomain.com/site-admin/. If you have been assigned an administrative username and password for your site, enter them here. If not, contact <a href="mailto:tech@tricreations.com">tech@tricreat
+
+
+
+
+ions.com</a> to request one.
+<p>
+<a name="counter">
+<dt>
+<b>How do I use the counter CGI script?</b>
+<dd>Your Tri Star account comes with many stock CGI scripts.  In general the stock scripts we give you have been tested and are fairly easy to get running on your site.  On most of our accounts you also have the option of running your own custom scripts. 
+
+
+
+
+ We do support the stock scripts we supply you with but cannot be responsible for your own custom scripts.  We will attempt to help you with any script you are having trouble with.  Just email 
+<A HREF="mailto:tech@tricreations.com">tech@tricreations.com</A> with questions.
+<p>One of the most common CGI scripts is for a hit counter on your page.
+<p><b>Counter</b> <img src="./counter.gif" height=20 width=90 border=0 
+			align=texttop alt="Counter"><BR>
+	
+	
+        <tt>Setting up the Counter:</tt><br>
+        <table border=2 cellpadding=2 width="95%">
+	  <tr>
+		<td><img src="./1.gif" height=20 width=15 border=0
+                        align=texttop alt="1"></td>
+ 		<td><p>Change to the directory "counters"</p></td>
+	  </tr>
+	  <tr>
+		<td><img src="./2.gif" height=20 width=15 border=0
+                        align=texttop alt="1"></td>
+	  	<td><p> Create a file with a unique name like index.txt
+			containing a number to start counting from...<br>
+   	       	        This can be done with a command like: echo 1 >
+			index.txt Or you can upload such a file to that
+			directory.
+		    </p></td>
+	  </tr>
+	  <tr>	 
+		<td><img src="./3.gif" height=20 width=15 border=0
+                        align=texttop alt="1"></td>
+	 	<td><p> You can then make a reference in the html file
+			referencing the counter image like:
+		    <p>
+   	   <p> &lt img src="./cgi-bin/Counter/counter.cgi?page=index"&gt </p>
+		</td>
+	  </tr>
+	</table>
+<p>
+<a name="search">
+<dt><b>How do I install a local search engine?</b>
+<dd>
+The simple search script was written to allow you to set up a
+search of your site, so that the visitors of your site could enter
+keywords and find all
+documents matching those keywords. </p>
+In the directory: <code>./cgi-bin/Search/</code><br> you will find the following files:
+<ul compact>
+<li>README        - Useful installation instructions.
+<li>search.pl     - The Perl script which does the searching.
+<li>search.html   - A sample HTML Search Page.
+</ul>
+
+<font="+1" color="green">Installation:</font> <br>
+<ol type=1 start=1>
+<li>Modify <i><big>search.pl</big></i>
+<p><code>$basedir = '';</code> This is the base directory to the files you
+will want to search.
+If you have all of your files in /web1/home1/w00000
+           and you want to search files that are in
+           /web1/home1/w00000/work and /web1/home1/w00000/fun, then
+           you would set your base directory at /web1/home1/w00000/. The
+$basedir variable just saves you the
+           time of having to type out the basedir over and over again for
+           every file you want to include.
+<p><code>$baseurl = '';</code>
+                This is very similar to the basedir variable except that
+           it will be used as a base reference to the files you want to
+search
+           in terms of the web.  For the example if your domain is
+helloworld.com, your baseurl would probably be something like:
+http://helloworld.com/ .
+           so that when the searched files are appended to this baseurl,
+they
+           form a complete url to his files to place in the results.
+<p><code>@files = ();</code>
+                This is an array that includes all of the files you want
+           to search.  The directory paths and filenames should be in
+           reference to $basedir.  Wild cards are allowed in this array,
+so if
+           you wanted to search all html files in fun/ and work/, you
+would set
+           your @files array up as: @files = ('fun/*.html','work/*.html');
+You
+           can also search whole directories at one time, like: @files =
+           ('fun/','work/');  This would search all text files located in
+these
+           directories.  Putting exact filenames will search only that
+filename.
+
+<p><code>$title = "";</code>
+                This variable is used to display the title of your page
+           in the search results and used to link back to your main page.
+	   For example if your domain is helloworld.com you might want to
+set the <i>$title</i> to 
+	be 'Hello World'.
+<p><code>$title_url = '';</code>
+                This is the url that would link to the page $title.
+	Example: <i>$title_url='http://helloworld.com/';</i>
+<p><code>$search_url = '';</code>
+                This is the url to the search.html page you set up, so
+           that it can be referenced from in the results page if users
+want
+           to make another search.
+	Example: <i>$search_url =
+'http://helloworld.com/mysearch.html';</i>
+<p>
+<li>Change the permissions on the search.pl script by running: <i>chmod
+755 search.pl</i>
+<p>
+<li>Modify <i><big>search.html</big></i> 
+<p>         This page needs only a little changing.  You will probably
+want
+to change the title and header of this page to match your site, and you
+may want to change the background and other features of it to make it fit
+into your site better.
+
+<p>       The main thing you will need to change is the action="" of your
+script from the fake url, to the url of your search.pl script.  Once you
+have changed this, and have implemented the changes listed above in
+search.pl, the search program should work.
+	Example:
+<i>action="http://helloworld.com/cgi-bin/Search/search.pl"</i>
+<p>        
+<li><i>search.html</i> should be chmoded 744 so that it is readable by
+everyone.
+</ol>
+For more information on this script please consult README 
+file at <code>./cgi-bin/Search/README</code> off your home directory.
+ 
+<p>
+<a name="location">
+<dt><b>I need to know where certain files are for my cgi programs. Where could they possibly be?</b>
+<dd>
+<table cellspacing=5>
+<tr><td><li>Sendmail Program</td><td><tt>/usr/lib/sendmail</tt></td></tr>
+<tr><td><li>Perl Interpreter</td><td><tt>/usr/local/lib/perl</tt></td></tr>
+<tr><td><li>Date Program</td><td><tt>/usr/bin/date</tt></td></tr>
+<tr><td><li>Crypt Utility</td><td><tt>/usr/bin/crypt</tt></td></tr>
+<tr><td><li>C Compiler</td><td><tt>/usr/local/bin/gcc *</tt></td></tr>
+<tr><td><li>C++ Compiler</td><td><tt>/usr/local/bin/g++ *</tt></td></tr>
+</table>
+<font size=1>* These files are in your path from your shell account and do not require a full path to use.</font>
+<p>
+<a name="ra">
+<dt><b>How do I use the Real Audio Server?</b>
+<dd>
+To use the real audio server, place real audio files in your "ra". This directory is in your home directory.
+For example "jovovich.ra". To reference this file from an html document, you must first create a ".ram" file, for example "jovovich.ram". 
+<p>
+<tt>pnm://williams.tricreations.com/[your account id]/[realaudio file]</tt>
+<p>
+For example:
+<p>
+<tt>pnm://williams.tricreations.com/tr002032/jovovich.ra</tt>
+<p>
+Finally you can reference the ".ram" file from your html document. For example:
+<p>
+<tt>&lt;a href="jovovich.ram"&gt;Jovovich & Me&lt;/a&gt;</tt>
+<p>
+<a name="secure">
+<dt><b>How do I use the Secure Server?</b>
+<dd>
+There is an ssl directory located in your home directory. Place all html, script, and graphics files required in this directory.
+The full URL for the secure server for your account would be:
+https://secure2.tricreations.com/[your account id]/
+
+For Example:
+https://secure.tricreations.com/tr003023/secure.html
+<p>
+<a name="htaccess">
+<dt>
+<b>How do I use htaccess to password protect files and directories?</b><BR>
+<dd>
+To utilize htaccess dynamic password protection on a directory:<BR>
+<p>
+1) Create a passwd file. You can create a passwd file with the
+<b>"htpasswd"</b> utility on the server.<BR>
+<p>
+To create a new password file run: <b><tt>htpasswd -c [filename] [user]</tt></b><BR>
+For example: <tt>htpasswd -c .htpasswd hingis</tt><BR>
+<p>
+You will then be prompted for a password for the user.<BR>
+<p>
+To add a new user to an existing password file, run the command:<b> htpasswd [passwd file] [user]</b><BR>
+For example: <tt>htpasswd .htpasswd martina</tt><BR>
+<p>
+Again you will be prompted for a password for "martina".<BR><BR>
+<p>
+2) Create a .htaccess file. You can either create this file locally and
+ftp the file to the server, or you can edit the file directly on the
+server using the text editor <b>pico</b>: <tt>pico .htaccess</tt><BR>
+<p>
+A standard .htaccess file contains the following:<BR>
+<p>
+<tt>
+AuthUserFile &lt;full path to the password file&gt;<BR>
+AuthGroupFile &lt;full path to a group file&gt;<BR>
+AuthName &lt;Prompt to be displayed in the pop up window&gt;<BR>
+AuthType Basic<BR>
+<p>
+&lt;Limit GET&gt;<BR>
+require valid-user<BR>
+&lt;/Limit&gt;
+<p>
+</tt>
+For example, if you want to protect a directory "members" in your root
+directory, place the following .htaccess file in the members directory.
+Be sure to include the full path including your home directory for the
+AuthUserFile. This assumes your document directory is located in
+/web3/home1/www255, and your passwd file is named ".htpasswd" and is
+located in the members directory.<BR>
+<p>
+<tt>
+AuthUserFile /web2/home1/www255/members/.htpasswd<BR>
+AuthGroupFile /dev/null<BR>
+AuthName This Area is Restricted to Members Only.<BR>
+AuthType Basic<BR>
+<p>
+&lt;Limit GET&gt;<BR>
+require valid-user<BR>
+&lt;/Limit&gt;<BR>
+</tt>
+<p>
+For more information on .htaccess files and using other features visit:<BR>
+<P>
+<A HREF="http://help.netscape.com/kb/server/960513-104.html">http://help.netscape.com/kb/server/960513-104.html</A>
+<A HREF="http://help.netscape.com/kb/server/960513-104.html">http://help.netscape.com/kb/server/960513-104.html</A>
+<A HREF="http://consult.ncsa.uiuc.edu/docs/httpd/config/access/">http://consult.ncsa.uiuc.edu/docs/httpd/Config/access/</A><P>
+<name="mk">
+<dt>
+<b>How do I view the stats on my site?</b>
+<dd>
+From your site admin pagem choose "see site statistics". This is a like to your web statistics. The Web statistics package we use is NetTracker, one of the most comprehensive packages available.
+<hr noshade size=1>
+<hr noshade size=1>
+</td>
+</tr>
+</table>
+<map name=top>
+<area coords="1,1,250,56" href="tech.html">
+<area coords="250,1,400,56" href="contact.html">
+<area coords="400,1,558,56" href="index.html">
+</map>
+
+</body>
+</html>

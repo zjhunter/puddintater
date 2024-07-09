@@ -1,0 +1,402 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0C8C-E7D1
+
+ Directory of C:\Projects\puddintater\html\images\pascale
+
+01/12/2005  10:37 PM    <DIR>          ..
+01/11/2005  05:09 PM    <DIR>          thumbs
+01/12/2005  10:38 PM                 0 list.txt
+01/12/2005  10:37 PM    <DIR>          .
+09/20/2004  05:27 PM             4,124 GiantBaby_icon.jpg
+12/13/2004  06:05 PM             5,329 pascale_icon.jpg
+09/20/2004  05:27 PM             6,540 WS_FTP.LOG
+09/20/2004  05:27 PM             6,833 DSC01247.jpg
+09/20/2004  05:27 PM             9,146 DSC01279.jpg
+09/20/2004  05:27 PM            10,311 DSC01231.jpg
+12/13/2004  10:49 PM            11,275 DSC01575.jpg
+01/01/2005  10:18 PM            11,612 DSC01709.jpg
+09/20/2004  05:27 PM            12,267 DSC01238.jpg
+09/20/2004  05:27 PM            12,303 DSC01267.jpg
+09/20/2004  05:27 PM            12,349 DSC01240.jpg
+09/20/2004  05:27 PM            12,376 DSC01241.jpg
+09/20/2004  05:27 PM            12,560 DSC01227.jpg
+09/20/2004  05:27 PM            12,664 DSC01245.jpg
+09/20/2004  05:27 PM            13,073 DSC01233.jpg
+09/20/2004  05:27 PM            13,120 DSC01343.jpg
+01/05/2005  04:41 AM            13,246 Dave&ShelbysWedding.8.2003 067 (Custom).jpg
+12/13/2004  10:49 PM            13,279 DSC01501.jpg
+09/20/2004  05:27 PM            13,429 DSC01319.jpg
+09/20/2004  05:27 PM            13,456 DSC01250.jpg
+09/20/2004  05:27 PM            13,667 DSC01248.jpg
+09/20/2004  05:27 PM            13,870 DSC01249.jpg
+09/20/2004  05:27 PM            13,886 DSC01347.jpg
+09/20/2004  05:27 PM            13,950 DSC01307.jpg
+09/20/2004  05:27 PM            14,033 DSC01163.jpg
+09/20/2004  05:27 PM            14,139 DSC01318.jpg
+09/20/2004  05:27 PM            14,206 DSC01162.jpg
+01/05/2005  04:47 AM            14,250 Pascale.10.03 012 (Custom).jpg
+01/02/2005  09:01 PM            14,579 WeekAtTheBeach2003 030 (Custom).jpg
+12/13/2004  10:49 PM            14,742 DSC01500.jpg
+01/11/2005  09:55 PM            14,835 BirthdayPartyReDo3 014 (Custom).jpg
+09/20/2004  05:27 PM            14,977 DSC01275.jpg
+09/20/2004  05:27 PM            14,983 DSC01283.jpg
+01/05/2005  04:47 AM            15,098 Pascale.10.03 019 (Custom).jpg
+12/13/2004  10:50 PM            15,167 DSC01757.jpg
+09/20/2004  05:27 PM            15,172 DSC01308.jpg
+09/20/2004  05:27 PM            15,286 DSC01176.jpg
+09/20/2004  05:27 PM            15,338 DSC01276.jpg
+09/20/2004  05:27 PM            15,497 DSC01332.jpg
+12/13/2004  10:49 PM            15,533 DSC01480.jpg
+09/20/2004  05:27 PM            15,606 DSC01239.jpg
+09/20/2004  05:27 PM            15,897 DSC01301.jpg
+01/11/2005  09:55 PM            15,931 BirthdayPartyReDo2 034 (Custom).jpg
+09/20/2004  05:27 PM            15,997 DSC01165.jpg
+09/20/2004  05:27 PM            16,131 DSC01284.jpg
+09/20/2004  05:27 PM            16,242 DSC01237.jpg
+01/05/2005  04:41 AM            16,373 BathTime.9.2003 007 (Custom).jpg
+12/13/2004  10:49 PM            16,389 DSC01486.jpg
+01/05/2005  04:41 AM            16,595 BathTime.9.2003 005 (Custom).jpg
+01/11/2005  09:55 PM            16,688 BirthdayPartyReDo3 005 (Custom).jpg
+09/20/2004  05:27 PM            16,947 DSC01265.jpg
+12/13/2004  10:49 PM            17,110 DSC01482.jpg
+01/11/2005  09:55 PM            17,195 BirthdayPartyReDo3 021 (Custom).jpg
+09/20/2004  05:27 PM            17,279 GiantBaby_512x384.jpg
+09/20/2004  05:27 PM            17,356 DSC01329.jpg
+09/20/2004  05:27 PM            17,459 DSC01278.jpg
+01/11/2005  09:55 PM            17,644 BirthdayPartyReDo 002 (Custom).jpg
+01/11/2005  09:55 PM            17,692 BirthdayPartyReDo3 029 (Custom).jpg
+01/11/2005  09:55 PM            17,750 BirthdayPartyReDo 017 (Custom).jpg
+01/05/2005  04:47 AM            17,963 Pascale.10.03 030 (Custom).jpg
+09/20/2004  05:27 PM            17,986 DSC01312.jpg
+09/20/2004  05:27 PM            18,063 DSC01330.jpg
+01/05/2005  04:47 AM            18,120 KitchenDemolition.8.2003 007 (Custom).jpg
+01/05/2005  04:47 AM            18,122 Pascale.10.03 037 (Custom).jpg
+12/13/2004  10:49 PM            18,173 DSC01646.jpg
+09/20/2004  05:27 PM            18,174 DSC01364.jpg
+12/13/2004  10:49 PM            18,193 DSC01609.jpg
+09/20/2004  05:27 PM            18,209 DSC01285.jpg
+12/13/2004  10:49 PM            18,234 DSC01591.jpg
+09/20/2004  05:27 PM            18,380 DSC01236.jpg
+01/05/2005  04:47 AM            18,382 Pascale.10.03 027 (Custom).jpg
+09/20/2004  05:27 PM            18,405 DSC01303.jpg
+09/20/2004  05:27 PM            18,579 DSC01226.jpg
+01/11/2005  09:55 PM            18,656 BirthdayPartyReDo3 001 (Custom).jpg
+09/20/2004  05:27 PM            18,657 DSC01280.jpg
+09/20/2004  05:27 PM            18,662 DSC01300.jpg
+12/13/2004  10:49 PM            18,690 DSC01588.jpg
+09/20/2004  05:27 PM            18,706 DSC01167.jpg
+09/20/2004  05:27 PM            18,709 DSC01363.jpg
+12/13/2004  10:49 PM            18,779 DSC01496.jpg
+09/20/2004  05:27 PM            18,885 DSC01277.jpg
+01/02/2005  09:01 PM            18,950 Springtime 027 (Custom).jpg
+09/20/2004  05:27 PM            19,122 DSC01225.jpg
+09/20/2004  05:27 PM            19,243 DSC01251.jpg
+09/20/2004  05:27 PM            19,285 DSC01223.jpg
+09/20/2004  05:27 PM            19,413 DSC01353.jpg
+01/11/2005  09:55 PM            19,446 BirthdayPartyReDo3 034 (Custom).jpg
+09/20/2004  05:27 PM            19,448 DSC01302.jpg
+09/20/2004  05:27 PM            19,491 DSC01331.jpg
+01/05/2005  04:47 AM            19,508 Pascale.10.03 015 (Custom).jpg
+09/20/2004  05:27 PM            19,666 DSC01266.jpg
+09/20/2004  05:27 PM            19,780 DSC01286.jpg
+01/11/2005  09:56 PM            19,831 BirthdayPartyReDo3 042 (Custom).jpg
+01/11/2005  09:55 PM            19,837 BirthdayPartyReDo3 018 (Custom).jpg
+09/20/2004  05:27 PM            19,928 DSC01174.jpg
+01/02/2005  05:15 PM            19,993 DSC01947 (Custom).jpg
+01/05/2005  04:43 AM            20,064 July.29.2003 016 (Custom).jpg
+09/20/2004  05:27 PM            20,214 DSC01337.jpg
+12/13/2004  10:49 PM            20,500 DSC01560.jpg
+09/20/2004  05:27 PM            20,508 DSC01257.jpg
+01/05/2005  04:41 AM            20,515 CribPics.9.2003 011 (Custom).jpg
+09/20/2004  05:27 PM            20,563 DSC01354.jpg
+09/20/2004  05:27 PM            20,669 DSC01298.jpg
+12/13/2004  10:49 PM            20,727 DSC01582.jpg
+01/05/2005  04:41 AM            20,747 Aquarium 008 (Custom).jpg
+01/05/2005  04:47 AM            20,910 Pascale.10.03 029 (Custom).jpg
+09/20/2004  05:27 PM            20,911 DSC01228.jpg
+09/20/2004  05:27 PM            20,957 DSC01368.jpg
+09/20/2004  05:27 PM            20,967 DSC01311.jpg
+01/11/2005  09:55 PM            20,981 BirthdayPartyReDo2 037 (Custom).jpg
+12/13/2004  10:49 PM            20,983 DSC01461.jpg
+01/05/2005  04:43 AM            21,040 July.29.2003 014 (Custom).jpg
+01/05/2005  04:47 AM            21,062 Pascale.Halloween.03 023 (Custom).jpg
+12/13/2004  10:50 PM            21,159 DSC01754.jpg
+09/20/2004  05:27 PM            21,167 DSC01356.jpg
+01/02/2005  09:01 PM            21,284 Springtime 024 (Custom).jpg
+12/13/2004  10:49 PM            21,428 DSC01554.jpg
+09/20/2004  05:27 PM            21,559 DSC01290.jpg
+09/20/2004  05:27 PM            21,620 DSC01156.jpg
+12/13/2004  10:49 PM            21,686 DSC01542.jpg
+09/20/2004  05:27 PM            21,705 DSC01264.jpg
+09/20/2004  05:27 PM            21,748 DSC01157.jpg
+09/20/2004  05:27 PM            21,824 DSC01246.jpg
+12/13/2004  10:50 PM            21,867 DSC01791.jpg
+09/20/2004  05:27 PM            21,875 DSC01217.jpg
+09/20/2004  05:26 PM            21,901 DSC01152.jpg
+12/13/2004  10:50 PM            21,903 DSC01679.jpg
+09/20/2004  05:27 PM            21,906 DSC01373.jpg
+09/20/2004  05:27 PM            21,998 DSC01173.jpg
+09/20/2004  05:27 PM            22,010 DSC01355.jpg
+01/02/2005  09:01 PM            22,026 Springtime 021 (Custom).jpg
+01/05/2005  04:41 AM            22,093 Dave&ShelbysWedding.8.2003 010 (Custom).jpg
+09/20/2004  05:27 PM            22,106 DSC01336.jpg
+12/13/2004  10:50 PM            22,109 DSC01758.jpg
+01/02/2005  09:01 PM            22,116 Springtime 018 (Custom).jpg
+01/05/2005  04:47 AM            22,121 Pascale.10.03 001 (Custom).jpg
+12/13/2004  10:50 PM            22,184 DSC01651.jpg
+12/13/2004  10:50 PM            22,261 DSC01751.jpg
+12/13/2004  10:50 PM            22,335 DSC01681.jpg
+09/20/2004  05:27 PM            22,380 DSC01315.jpg
+09/20/2004  05:27 PM            22,496 DSC01259.jpg
+01/05/2005  04:43 AM            22,516 July.29.2003 012 (Custom).jpg
+12/13/2004  10:50 PM            22,520 DSC01717.jpg
+09/20/2004  05:27 PM            22,609 DSC01362.jpg
+12/13/2004  10:50 PM            22,660 DSC01760.jpg
+09/20/2004  05:27 PM            22,660 DSC01352.jpg
+01/05/2005  04:43 AM            22,688 July.22.2003 039 (Custom).jpg
+09/20/2004  05:27 PM            22,701 DSC01317.jpg
+09/20/2004  05:27 PM            22,706 DSC01179.jpg
+09/20/2004  05:27 PM            22,744 DSC01216.jpg
+01/02/2005  10:54 PM            22,754 July.9.2003 111 (Custom).jpg
+01/02/2005  09:01 PM            22,791 Springtime 011 (Custom).jpg
+01/05/2005  04:41 AM            22,800 CribPics.9.2003 008 (Custom).jpg
+09/20/2004  05:27 PM            22,862 DSC01313.jpg
+09/20/2004  05:27 PM            23,039 DSC01357.jpg
+01/11/2005  09:55 PM            23,048 BirthdayPartyReDo 004 (Custom).jpg
+09/20/2004  05:27 PM            23,101 DSC01374.jpg
+09/20/2004  05:27 PM            23,106 DSC01158.jpg
+09/20/2004  05:27 PM            23,139 DSC01358.jpg
+09/20/2004  05:27 PM            23,139 DSC01372.jpg
+09/20/2004  05:27 PM            23,362 DSC01269.jpg
+01/11/2005  09:55 PM            23,371 BirthdayPartyReDo2 046 (Custom).jpg
+01/02/2005  09:01 PM            23,565 WeekAtTheBeach2003 065 (Custom).jpg
+12/13/2004  10:50 PM            23,570 DSC01800.jpg
+12/13/2004  10:49 PM            23,634 DSC01599.jpg
+09/20/2004  05:27 PM            23,718 DSC01256.jpg
+01/02/2005  09:01 PM            23,744 Springtime 006 (Custom).jpg
+12/13/2004  10:50 PM            23,786 DSC01727.jpg
+09/20/2004  05:27 PM            23,792 DSC01289.jpg
+12/13/2004  10:50 PM            23,904 DSC01671.jpg
+12/13/2004  10:50 PM            23,921 DSC01746.jpg
+01/05/2005  04:48 AM            23,925 PhyllisVisit.7.2003 005 (Custom).jpg
+01/02/2005  09:01 PM            23,938 WeekAtTheBeach2003 025 (Custom).jpg
+12/13/2004  10:50 PM            23,966 DSC01743.jpg
+12/13/2004  10:49 PM            23,995 DSC01509.jpg
+01/05/2005  04:47 AM            24,173 Pascale.Halloween.03 003 (Custom).jpg
+01/11/2005  09:56 PM            24,222 Dad&M.Freeport.10.2003 001 (Custom).jpg
+01/02/2005  05:15 PM            24,231 DSC01983 (Custom).jpg
+01/02/2005  10:54 PM            24,240 July.9.2003 043 (Custom).jpg
+09/20/2004  05:27 PM            24,261 DSC01224.jpg
+09/20/2004  05:27 PM            24,282 DSC01261.jpg
+09/20/2004  05:27 PM            24,315 DSC01287.jpg
+01/05/2005  04:47 AM            24,330 Pascale.Halloween.03 022 (Custom).jpg
+12/13/2004  10:50 PM            24,382 DSC01789.jpg
+12/13/2004  10:50 PM            24,384 DSC01787.jpg
+09/20/2004  05:27 PM            24,392 DSC01243.jpg
+09/20/2004  05:27 PM            24,395 DSC01262.jpg
+09/20/2004  05:27 PM            24,466 DSC01214.jpg
+01/05/2005  04:47 AM            24,590 Pascale.Halloween.03 028 (Custom).jpg
+09/20/2004  05:27 PM            24,671 DSC01288.jpg
+01/11/2005  09:55 PM            24,675 BirthdayPartyReDo 023 (Custom).jpg
+09/20/2004  05:27 PM            24,709 DSC01291.jpg
+09/20/2004  05:27 PM            24,860 DSC01154.jpg
+01/02/2005  10:54 PM            24,878 July.9.2003 199 (Custom).jpg
+12/13/2004  10:50 PM            24,933 DSC01661.jpg
+01/11/2005  09:55 PM            24,941 BirthdayPartyReDo2 047 (Custom).jpg
+12/13/2004  10:49 PM            25,052 DSC01556.jpg
+01/11/2005  09:57 PM            25,061 WeekAtTheBeach2003 017 (Custom).jpg
+12/13/2004  10:49 PM            25,092 DSC01643.jpg
+09/20/2004  05:27 PM            25,165 DSC01314.jpg
+01/02/2005  09:01 PM            25,195 WeekAtTheBeach2003 001 (Custom).jpg
+09/20/2004  05:27 PM            25,206 DSC01242.jpg
+09/20/2004  05:27 PM            25,274 DSC01153.jpg
+01/05/2005  04:43 AM            25,297 July.22.2003 009 (Custom).jpg
+01/11/2005  09:55 PM            25,325 BirthdayPartyReDo2 020 (Custom).jpg
+12/13/2004  10:49 PM            25,381 DSC01633.jpg
+12/13/2004  10:50 PM            25,576 DSC01660.jpg
+09/20/2004  05:27 PM            25,708 DSC01260.jpg
+09/20/2004  05:27 PM            25,790 DSC01274.jpg
+09/20/2004  05:27 PM            25,928 DSC01219.jpg
+09/20/2004  05:27 PM            25,960 DSC01258.jpg
+09/20/2004  05:27 PM            25,975 DSC01244.jpg
+12/13/2004  10:49 PM            26,088 DSC01615.jpg
+09/20/2004  05:27 PM            26,191 DSC01211.jpg
+09/20/2004  05:27 PM            26,265 DSC01220.jpg
+09/20/2004  05:27 PM            26,387 I'm_a_Girl_512x384.jpg
+09/20/2004  05:27 PM            26,387 DSC01172.jpg
+01/02/2005  09:01 PM            26,439 WeekAtTheBeach2003 068 (Custom).jpg
+09/20/2004  05:27 PM            26,450 DSC01263.jpg
+01/11/2005  09:56 PM            26,467 Dad&M.Freeport.10.2003 008 (Custom).jpg
+01/02/2005  10:54 PM            26,514 July.9.2003 155 (Custom).jpg
+01/02/2005  10:54 PM            26,588 July.9.2003 168 (Custom).jpg
+09/20/2004  05:27 PM            26,668 DSC01333.jpg
+09/20/2004  05:27 PM            26,671 DSC01366.jpg
+09/20/2004  05:27 PM            26,732 DSC01221.jpg
+12/13/2004  10:50 PM            26,749 DSC01659.jpg
+09/20/2004  05:27 PM            26,790 DSC01361.jpg
+01/05/2005  04:47 AM            26,802 Pascale.Halloween.03 006 (Custom).jpg
+01/05/2005  04:43 AM            26,860 July.29.2003 007 (Custom).jpg
+09/20/2004  05:27 PM            26,881 DSC01252.jpg
+01/05/2005  04:48 AM            27,010 PhyllisVisit.7.2003 008 (Custom).jpg
+01/05/2005  04:48 AM            27,366 PhyllisVisit.7.2003 003 (Custom).jpg
+12/13/2004  10:50 PM            27,384 DSC01779.jpg
+09/20/2004  05:27 PM            27,405 DSC01359.jpg
+09/20/2004  05:27 PM            27,493 DSC01255.jpg
+12/13/2004  10:50 PM            27,499 DSC01792.jpg
+09/20/2004  05:27 PM            27,515 DSC01360.jpg
+01/02/2005  05:15 PM            27,516 DSC01942 (Custom).jpg
+09/20/2004  05:27 PM            27,519 DSC01297.jpg
+01/11/2005  09:55 PM            27,614 BirthdayPartyReDo 008 (Custom).jpg
+12/13/2004  10:49 PM            27,765 DSC01635.jpg
+12/13/2004  10:50 PM            27,914 DSC01730.jpg
+01/11/2005  09:55 PM            27,922 BirthdayPartyReDo 035 (Custom).jpg
+12/13/2004  10:50 PM            27,996 DSC01771.jpg
+01/11/2005  09:56 PM            28,143 Dad&M.Freeport.10.2003 002 (Custom).jpg
+09/20/2004  05:27 PM            28,245 DSC01254.jpg
+12/13/2004  10:49 PM            28,248 DSC01559.jpg
+01/11/2005  09:55 PM            28,329 BirthdayPartyReDo2 001 (Custom).jpg
+09/20/2004  05:27 PM            28,333 DSC01159.jpg
+09/20/2004  05:27 PM            28,376 DSC01222.jpg
+12/13/2004  10:49 PM            28,397 DSC01611.jpg
+12/13/2004  10:49 PM            28,423 DSC01455.jpg
+09/20/2004  05:27 PM            28,515 DSC01335.jpg
+09/20/2004  05:27 PM            28,588 DSC01299.jpg
+09/20/2004  05:27 PM            28,634 DSC01253.jpg
+01/05/2005  04:43 AM            28,637 July.22.2003 020 (Custom).jpg
+01/05/2005  04:41 AM            28,640 Dave&ShelbysWedding.8.2003 087 (Custom).jpg
+01/02/2005  05:15 PM            28,689 DSC01920 (Custom).jpg
+12/13/2004  10:50 PM            28,818 DSC01796.jpg
+09/20/2004  05:27 PM            28,923 DSC01365.jpg
+01/02/2005  10:54 PM            28,950 July.9.2003 156 (Custom).jpg
+12/13/2004  10:49 PM            29,029 DSC01522.jpg
+12/13/2004  10:50 PM            29,054 DSC01735.jpg
+12/13/2004  10:50 PM            29,070 DSC01647.jpg
+12/13/2004  10:50 PM            29,073 DSC01655.jpg
+12/13/2004  10:49 PM            29,151 DSC01535.jpg
+01/05/2005  04:41 AM            29,220 Dave&ShelbysWedding.8.2003 072 (Custom).jpg
+09/20/2004  05:27 PM            29,238 DSC01213.jpg
+01/05/2005  04:47 AM            29,248 Pascale.Halloween.03 010 (Custom).jpg
+12/13/2004  10:50 PM            29,251 DSC01798.jpg
+09/20/2004  05:27 PM            29,266 TheNewFamily_512x384.jpg
+09/20/2004  05:27 PM            29,302 DSC01371.jpg
+12/13/2004  10:50 PM            29,403 DSC01805.jpg
+01/02/2005  09:01 PM            29,436 WeekAtTheBeach2003 023 (Custom).jpg
+09/20/2004  05:27 PM            29,483 DSC01218.jpg
+12/13/2004  10:49 PM            29,586 DSC01602.jpg
+09/20/2004  05:27 PM            29,621 DSC01209.jpg
+01/02/2005  05:15 PM            29,697 DSC01991 (Custom).jpg
+09/20/2004  05:27 PM            29,701 DSC01208.jpg
+12/13/2004  10:49 PM            29,717 DSC01552.jpg
+09/20/2004  05:27 PM            29,814 DSC01169.jpg
+01/02/2005  09:01 PM            30,103 Springtime 008 (Custom).jpg
+09/20/2004  05:27 PM            30,255 DSC01212.jpg
+01/02/2005  10:54 PM            30,287 July.9.2003 098 (Custom).jpg
+01/02/2005  05:15 PM            30,295 DSC01981 (Custom).jpg
+01/05/2005  04:48 AM            30,321 PhyllisVisit.7.2003 001 (Custom).jpg
+12/13/2004  10:50 PM            30,381 DSC01801.jpg
+12/13/2004  10:49 PM            30,463 DSC01452.jpg
+09/20/2004  05:27 PM            30,468 DSC01160.jpg
+01/11/2005  09:55 PM            30,473 BirthdayPartyReDo 014 (Custom).jpg
+01/11/2005  09:55 PM            30,543 BirthdayPartyReDo 032 (Custom).jpg
+12/13/2004  10:49 PM            30,562 DSC01546.jpg
+12/13/2004  10:50 PM            30,606 DSC01732.jpg
+09/20/2004  05:27 PM            30,890 DSC01161.jpg
+09/20/2004  05:27 PM            31,103 DSC01207.jpg
+01/02/2005  09:01 PM            31,180 Springtime 007 (Custom).jpg
+01/02/2005  09:01 PM            31,232 WeekAtTheBeach2003 033 (Custom).jpg
+12/13/2004  10:49 PM            31,257 DSC01618.jpg
+01/11/2005  09:57 PM            31,326 WeekAtTheBeach2003 005 (Custom).jpg
+09/20/2004  05:27 PM            31,445 DSC01293.jpg
+12/13/2004  10:50 PM            31,674 DSC01786.jpg
+12/13/2004  10:49 PM            31,696 DSC01441.jpg
+12/13/2004  10:50 PM            31,932 DSC01795.jpg
+01/02/2005  10:44 PM            32,173 WeekAtTheBeach2003 072 (Custom).jpg
+12/13/2004  10:49 PM            32,398 DSC01549.jpg
+09/20/2004  05:27 PM            32,452 DSC01273.jpg
+12/13/2004  10:49 PM            32,461 DSC01567.jpg
+12/13/2004  10:49 PM            32,674 DSC01430.jpg
+01/11/2005  09:55 PM            33,318 BirthdayPartyReDo 028 (Custom).jpg
+09/20/2004  05:27 PM            33,481 DSC01155.jpg
+01/02/2005  05:15 PM            33,706 DSC01973 (Custom).jpg
+01/02/2005  05:15 PM            33,723 DSC01974 (Custom).jpg
+09/20/2004  05:27 PM            33,906 DSC01183.jpg
+01/02/2005  10:54 PM            33,975 July.9.2003 158 (Custom).jpg
+09/20/2004  05:27 PM            34,181 DSC01294.jpg
+01/05/2005  04:41 AM            34,209 Dave&ShelbysWedding.8.2003 024 (Custom).jpg
+09/20/2004  05:27 PM            34,213 DSC01295.jpg
+09/20/2004  05:27 PM            34,360 DSC01270.jpg
+09/20/2004  05:27 PM            34,734 DSC01177.jpg
+09/20/2004  05:27 PM            34,770 DSC01268.jpg
+01/02/2005  10:54 PM            35,065 July.9.2003 059 (Custom).jpg
+12/13/2004  10:49 PM            35,312 DSC01434.jpg
+09/20/2004  05:27 PM            35,405 DSC01272.jpg
+01/02/2005  10:54 PM            35,454 July.9.2003 083 (Custom).jpg
+09/20/2004  05:27 PM            35,808 HelloWorld_512x384.jpg
+09/20/2004  05:27 PM            35,876 DSC01205.jpg
+09/20/2004  05:27 PM            36,282 DSC01182.jpg
+09/20/2004  05:27 PM            36,374 DSC01292.jpg
+12/13/2004  10:49 PM            36,803 DSC01425.jpg
+12/13/2004  10:50 PM            36,826 DSC01797.jpg
+12/13/2004  10:49 PM            36,911 DSC01630.jpg
+12/13/2004  10:50 PM            36,934 DSC01799.jpg
+01/02/2005  09:01 PM            37,181 WeekAtTheBeach2003 040 (Custom).jpg
+09/20/2004  05:27 PM            37,611 DSC01204.jpg
+09/20/2004  05:27 PM            37,686 DSC01281.jpg
+01/02/2005  10:54 PM            37,755 July.9.2003 103 (Custom).jpg
+09/20/2004  05:27 PM            37,952 DSC01369.jpg
+09/20/2004  05:27 PM            38,127 DSC01271.jpg
+12/13/2004  10:49 PM            38,239 DSC01639.jpg
+12/13/2004  10:50 PM            38,879 DSC01736.jpg
+09/20/2004  05:27 PM            38,911 DSC01338.jpg
+09/20/2004  05:27 PM            39,089 DSC01296.jpg
+01/05/2005  04:41 AM            40,070 Dave&ShelbysWedding.8.2003 012 (Custom).jpg
+01/02/2005  10:54 PM            40,100 July.9.2003 081 (Custom).jpg
+09/20/2004  05:26 PM            41,117 DSC01150.jpg
+01/05/2005  04:41 AM            41,174 Dave&ShelbysWedding.8.2003 073 (Custom).jpg
+09/20/2004  05:26 PM            41,183 DSC01144.jpg
+01/02/2005  10:54 PM            42,030 July.9.2003 212 (Custom).jpg
+01/02/2005  05:15 PM            42,489 DSC01905 (Custom).jpg
+09/20/2004  05:26 PM            42,711 DSC01151.jpg
+01/02/2005  05:15 PM            44,553 DSC01902 (Custom).jpg
+01/05/2005  04:43 AM            45,472 July.22.2003 024 (Custom).jpg
+12/13/2004  10:49 PM            45,634 DSC01472.jpg
+09/20/2004  05:26 PM            49,008 DSC01143.jpg
+09/20/2004  05:26 PM            49,200 DSC01145.jpg
+09/20/2004  05:27 PM            49,872 DSC01203.jpg
+09/20/2004  05:26 PM            51,297 DSC01148.jpg
+09/20/2004  05:26 PM            51,557 DSC01141.jpg
+01/05/2005  04:41 AM            52,844 Dave&ShelbysWedding.8.2003 002 (Custom).jpg
+09/20/2004  05:26 PM            53,012 DSC01149.jpg
+01/05/2005  04:41 AM            54,073 Dave&ShelbysWedding.8.2003 001 (Custom).jpg
+09/20/2004  05:26 PM            54,143 DSC01146.jpg
+01/02/2005  05:15 PM            55,406 DSC01954 (Custom).jpg
+01/11/2005  09:56 PM           215,983 DSC01680.JPG
+01/11/2005  09:56 PM           308,791 DSC01664.JPG
+01/11/2005  09:57 PM           325,345 DSC01715.JPG
+12/13/2004  10:49 PM           355,130 DSC01467.jpg
+11/01/2004  11:17 PM         1,204,359 Pascale'sFirstHalloween 011.jpg
+10/21/2004  09:19 AM         1,213,182 Jack-O-Lantern 001.jpg
+01/11/2005  09:57 PM         1,224,570 DSC01709.orig.JPG
+04/12/2004  07:42 AM         1,231,224 Easter.04 003.jpg
+11/01/2004  11:17 PM         1,235,444 Pascale'sFirstHalloween 008.jpg
+11/01/2004  11:16 PM         1,262,863 Pascale'sFirstHalloween 001.jpg
+10/25/2004  03:48 PM         1,299,388 Jack-o-Lantern 008.jpg
+11/01/2004  11:17 PM         1,319,674 Pascale'sFirstHalloween 014.jpg
+11/29/2003  11:26 AM         1,348,996 Thanksgiving2003 002.jpg
+04/12/2004  07:43 AM         1,356,865 Easter.04 012.jpg
+11/01/2004  11:17 PM         1,360,889 Pascale'sFirstHalloween 018.jpg
+10/25/2004  03:48 PM         1,361,729 Jack-o-Lantern 011.jpg
+10/25/2004  03:47 PM         1,369,059 Jack-o-Lantern 007.jpg
+11/29/2003  11:27 AM         1,376,937 Thanksgiving2003 007.jpg
+11/01/2004  11:17 PM         1,383,140 Pascale'sFirstHalloween 016.jpg
+11/01/2004  11:17 PM         1,405,745 Pascale'sFirstHalloween 013.jpg
+10/25/2004  03:49 PM         1,409,251 Jack-o-Lantern 014.jpg
+10/25/2004  03:48 PM         1,417,248 Jack-o-Lantern 012.jpg
+05/11/2004  09:29 PM         1,420,004 BeachAndSwans 006.jpg
+04/12/2004  07:44 AM         1,420,740 Easter.04 028.jpg
+04/12/2004  07:44 AM         1,436,993 Easter.04 022.jpg
+04/12/2004  07:43 AM         1,454,069 Easter.04 014.jpg
+04/12/2004  07:43 AM         1,482,573 Easter.04 008.jpg
+04/12/2004  07:43 AM         1,492,257 Easter.04 006.jpg
+             392 File(s)     42,883,917 bytes
+               3 Dir(s)  17,424,818,176 bytes free

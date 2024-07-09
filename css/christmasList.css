@@ -1,0 +1,58 @@
+BODY {
+	background : White;
+	margin : 0 0 0 0;
+	color : Black;
+	font-size : x-small;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+TABLE.content_frame {
+	border : 0;
+	padding : 0 0 0 0;
+	text-align : left;
+	width : 100%;
+	margin : 0 0 0 0;
+}
+
+TR.edit_hint {
+	vertical-align : top;
+}
+
+TD.label {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	font-size : x-small;
+	text-align : right;
+	padding-top : 2px;
+}
+
+.label {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	font-size : x-small;
+}
+
+.section_head {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	font-size : larger;
+	}
+
+.plain {
+	font-size : x-small;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight : 500;
+	color : black;
+}
+	
+.emph {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	font-size : medium;
+}
+	
+.listItem{
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : x-small;
+	font-weight : 500;
+	color : black;
+	}

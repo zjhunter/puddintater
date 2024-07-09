@@ -1,0 +1,180 @@
+/* Universal classes */
+.plain {
+		font-family : arial, sans-serif;
+		font-weight : 500;
+		color: navy;
+	}
+	
+.emph {
+	font-weight : bold;
+	font-size : large;
+}
+
+
+.asside {
+	font-size: smaller;
+	font-style: italic;
+}
+
+
+.code {
+	font-family: courier-new, courier, monospace;
+	font-variant: small-caps;
+	white-space: pre;
+	list-style: disc inside;
+}
+
+
+.firstline {
+	text-transform: uppercase;
+	}	
+	
+.firstletter {
+	font-size: 200%;
+	}	
+
+
+.storytext {
+		font-family: times, serif;
+		font-size: 12pt;
+	}
+	
+.citation {
+	text-align: right;
+	font-size: smaller;
+	font-family: courrier-new, courrier, monospac;
+	word-spacing: .5em;
+}
+
+
+.section_head {
+	font-size: larger;
+	font-weight: bold;
+}
+
+
+.ContentFrame {	
+	text-align: left;
+	font-family: arial, sans-serif;
+	border: none;
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+}
+
+
+.caption {
+	font-family: arial, sans-serif;
+	font-weight: bold;
+}
+
+
+/* HTML Selectors */
+
+
+A {
+	font-weight: bold;
+	text-decoration: underline;
+	color: Sienna;
+}
+
+
+A:Hover  {
+	text-decoration: none;
+	background-color: navy;
+	color: snow;
+}
+
+
+DT {
+	margin-top: 5px;
+	font-weight: bold;
+}
+
+
+/* HTML Selectors Subclasses */
+
+
+BODY.SectionPage {
+	background: peachpuff url(../images/section_border.jpg) repeat-y;  
+	color: navy;
+}
+
+
+P.ContentFrame {	
+	text-align: center;
+}
+
+
+P.title {
+		text-align : center;
+		font-family : times, serif;
+		font-weight : bold;
+		color : Navy;
+		font-size : xx-large;
+	}
+P.subtitle {
+		text-align : center;
+		font-family : cursive, serif;
+		font-weight : 700;
+		color : firebrick;
+		font-size : large;
+	}
+P.tagline {
+		font-size : xx-small;
+		font-family : arial, sans-serif;
+		text-align : right;
+		clear: left;
+	}
+	
+/*
+P.NavFrame {
+	float: left;
+	line-height: 200%;
+	clear: bottom;
+	border: solid red;
+}
+*/
+
+
+A.navitem {
+	font-family: arial, sans-serif;
+	font-size: 12pt;
+	font-weight: bold;
+	text-decoration: none;
+	color: peachpuff;
+}
+
+
+A.navitem:Hover  {
+	text-decoration: none;
+	background-color: peachpuff;
+	color: navy;
+}
+
+
+td.content_frame {
+	vertical-align: top;
+	text-align: left;
+	font-family: arial, sans-serif;
+}
+
+
+td.nav_frame {
+	white-space: nowrap;
+	vertical-align: top;
+	line-height: 200%;
+	width: 150;
+	margin-right: 60;
+/*	border: solid black; */
+}
+
+
+td.SectionFrame {
+	text-align: center;
+	font-family: arial; sans-serif;
+	font-weight: bold;
+	border: groove;
+	background-color: peachpuff;
+	color: navy;
+	padding: 10 5 10 5
+}
